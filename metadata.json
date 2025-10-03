@@ -1,0 +1,5 @@
+{
+  "name": "RepersonAI",
+  "description": "A platform providing 'recipes' for know-how on launching student groups and NPOs, featuring a Gemini-powered chatbot for guidance. (English & Japanese)",
+  "requestFramePermissions": []
+}
